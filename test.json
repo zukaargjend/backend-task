@@ -1,0 +1,139 @@
+{
+    "items": [
+        {
+            "description": "Water",
+            "quantity": 240,
+            "price": 0.25,
+            "VAT": 8,
+            "discount": 0
+        },
+        {
+            "description": "Chips",
+            "quantity": 38,
+            "price": 2.40,
+            "VAT": 8
+        },
+        {
+            "description": "TV",
+            "quantity": 1,
+            "price": 760,
+            "VAT": 22
+        },
+        {
+            "description": "Coca-cola",
+            "quantity": 77,
+            "price": 0.50,
+            "VAT": 18,
+            "discount": 0.10
+        },
+        {
+            "description": "Chocolate bars",
+            "quantity": 38,
+            "price": 1.25,
+            "VAT": 22
+        },
+        {
+            "description": "Hand soap",
+            "quantity": 92,
+            "price": 3.78,
+            "VAT": 8
+        },
+        {
+            "description": "Fish meat",
+            "quantity": 49,
+            "price": 8.30,
+            "VAT": 18
+        },
+        {
+            "description": "Humus",
+            "quantity": 16,
+            "price": 2.66,
+            "VAT": 18
+        },
+        {
+            "description": "White wine",
+            "quantity": 18,
+            "price": 9.20,
+            "VAT": 18,
+            "discount": 0.02
+        },
+        {
+            "description": "Bananas",
+            "quantity": "8",
+            "price": 1.25,
+            "VAT": 22
+        },
+        {
+            "description": "Wine",
+            "quantity": 22,
+            "price": 9.78,
+            "VAT": 22
+        },
+        {
+            "description": "Oil",
+            "quantity": "10",
+            "price": 8.30,
+            "VAT": 18
+        },
+        {
+            "description": "Cigarettes",
+            "quantity": 89,
+            "price": 5.46,
+            "VAT": 22
+        },
+        {
+            "description": "Cookies",
+            "quantity": 33,
+            "price": 1.34,
+            "VAT": 8
+        },
+        {
+            "description": "Yogurts",
+            "quantity": 14,
+            "price": 0.66,
+            "VAT": 18
+        },
+        {
+            "description": "Bleach",
+            "quantity": 11,
+            "price": 1.23,
+            "VAT": 22
+        },
+        {
+            "description": "Napkins",
+            "quantity": 85,
+            "price": 0.21,
+            "VAT": 8
+        },
+        {
+            "description": "Eggs",
+            "quantity": 104,
+            "price": 0.16,
+            "VAT": 18
+        },
+        {
+            "description": "Plastic bags",
+            "quantity": 398,
+            "price": 0.05,
+            "VAT": 18
+        },
+        {
+            "description": "Aluminum foils",
+            "quantity": 21,
+            "price": 1.12,
+            "VAT": 8
+        },
+        {
+            "description": "Razors",
+            "quantity": 51,
+            "price": 8.10,
+            "VAT": 8
+        },
+        {
+            "description": "Lotions",
+            "quantity": 205,
+            "price": 12,
+            "VAT": 22
+        }
+    ]
+}
